@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=7C2AE8&center=true&vCenter=true&lines=Welcom+to+my+Profile)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
